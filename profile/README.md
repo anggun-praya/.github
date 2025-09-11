@@ -25,11 +25,4 @@ Anggun Praya adalah platform **undangan digital eksklusif** yang dirancang untuk
 
 ---
 
-## 📖 Tentang Kami
-
-Anggun Praya berdiri sebagai **Perseroan Perorangan**.
-Kami percaya bahwa setiap perayaan berhak tampil anggun dengan cara yang modern, praktis, dan berkesan.
-
----
-
 💌 *Wujudkan momen Anda lebih bermakna bersama Anggun Praya.*
