@@ -1,6 +1,11 @@
-# 🌸 Anggun Praya
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/190293714?s=200&v=4" alt="Anggun Praya Logo" width="120" />
+</p>
 
-✨ **Anggun Dalam Setiap Momen** ✨
+<h1 align="center">🌸 Anggun Praya</h1>
+<p align="center">✨ <em>Anggun Dalam Setiap Momen</em> ✨</p>
+
+---
 
 Anggun Praya adalah platform **undangan digital eksklusif** yang dirancang untuk menghadirkan pengalaman berkesan, praktis, dan anggun di setiap momen istimewa Anda.
 
